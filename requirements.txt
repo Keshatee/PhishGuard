@@ -1,0 +1,10 @@
+python-whois>=0.9.4
+requests>=2.31.0
+python-dotenv>=1.0.0
+colorama>=0.4.6
+Flask>=3.0.0
+
+# Domain parsing is handled by the built-in phishguard.utils module (no
+# network calls needed at startup). If you want full public-suffix-list
+# accuracy for edge-case TLDs, you can optionally install tldextract and
+# swap it in -- see phishguard/utils.py for the interface to match.

@@ -1,0 +1,16 @@
+From: "Jane Smith" <jane.smith@realcompany.com>
+To: colleague@realcompany.com
+Subject: Q3 planning doc
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=realcompany.com; dkim=pass; dmarc=pass
+Content-Type: text/plain; charset="UTF-8"
+MIME-Version: 1.0
+
+Hey,
+
+Here's the link to the Q3 planning doc we discussed in standup this morning:
+https://docs.realcompany.com/planning/q3-2026
+
+Let me know if you have questions before Thursday's review.
+
+Thanks,
+Jane

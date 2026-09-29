@@ -1,0 +1,33 @@
+From: "PayPal Security" <security@paypa1-support.xyz>
+Reply-To: recovery@totally-legit-mail.com
+Return-Path: <bounce@paypa1-support.xyz>
+To: victim@example.com
+Subject: URGENT!!! Your Account Will Be Suspended - Verify Now
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=paypa1-support.xyz; dkim=fail; dmarc=fail
+Content-Type: multipart/mixed; boundary="BOUNDARY123"
+MIME-Version: 1.0
+
+--BOUNDARY123
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We have detected UNUSUAL ACTIVITY on your account. Your account has been
+locked and will be permanently closed within 24 hours unless you verify
+your identity immediately!!!
+
+Please click the link below to confirm your password and avoid suspension:
+http://paypal.com.verify-account-login.xyz/secure/confirm?id=8837
+
+You must act now to avoid losing access to your funds.
+
+Sincerely,
+PayPal Account Team
+
+--BOUNDARY123
+Content-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document; name="Account_Verification_Form.docm"
+Content-Disposition: attachment; filename="Account_Verification_Form.docm"
+Content-Transfer-Encoding: base64
+
+UEsDBBQAAAAIAA==
+--BOUNDARY123--
